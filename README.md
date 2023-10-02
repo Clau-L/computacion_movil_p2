@@ -1,17 +1,13 @@
 # prueba2_como_reciclar
 
-A new Flutter project.
+Proyecto Flutter: Computacion Movil (evaliación 2)
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+El proyecto consiste en replicar una pagina web, actualmente la primera imagen de la pagina de inicio, el proyecto (drawer) y el como reciclar (drawer) redirigen a paginas con informacion, el resto redirigen a una pagina de "Comming Soon".
 
-A few resources to get you started if this is your first Flutter project:
+La pagina web que se replico fue la siguiente:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- [Sitio Web: Como reciclar](http://www.comoreciclar.cl)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
 # computacion_movil_p2
